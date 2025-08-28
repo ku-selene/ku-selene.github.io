@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 domain: ku-selene.github.io
-author: SELENE @ Korea University
-title: SELENE
+author: SELENE 
+title: SELENE @ Korea University
 email: gabin_an@korea.ac.kr
 address: "[02841] 204 Woojung Hall of Informatics, 145 Anam-ro, Seongbuk-gu, Seoul"
 address_url: "https://maps.app.goo.gl/yfR8pPdgoJ7LxySH7"
@@ -36,8 +36,13 @@ university_logo: "assets/images/ku_logo.png"
 theme: minima
 
 # theme: jekyll-athena
-plugins:
-  - jekyll-feed
+plugins: 
+  - "jekyll-feed"
+
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.

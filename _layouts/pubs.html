@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<i class="fa fa-envelope"></i>
+
+<div class="publications">
+  {% assign publications = site.publications | sort: "year" | reverse %}
+  
+  <h2 class="pub-list-heading">Publications</h2>
+  <ul class="pub-list">
+    {% for pub in publications %}
+    <li>
+      <h2>
+        <a class="pub-link" href="{{ pub.url }}">{{ pub.title | escape }}</a>
+      </h2>
+      <p class="post-meta">
+        Venue: {{ pub.booktitle }}{% if pub.award %}, <strong>{{ pub.award }}</strong> 🏆{% endif %}
+        <br>Year: {{ pub.year }}
+        <br>Authors: {{ pub.authors }}
+        {% if pub.track %}
+        <br>Track: {{ pub.track }}
+        {% endif %}
+        {% if pub.doi %}
+        <br>DOI: <a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>
+        {% endif %}
+        {% if pub.arxiv %}
+        <br>Preprint: <a href="{{ pub.arxiv }}" target="_blank">{{ pub.arxiv }}</a>
+        {% endif %}
+      </p>
+    </li>
+    {% unless forloop.last %}
+    <hr>
+    {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
+

@@ -14,7 +14,7 @@ list_title: Announcement
 
 ## Contact
 
-- **Address:** [02841] 204 Woojung Hall of Informatics, 145 Anam-ro, Seongbuk-gu, Seoul
+- **Address:** [02841] 204 Woojung Hall of Informatics, 145 Anam-ro, Seongbuk-gu, Seoul (Tentative!)
 - **Email:** gabin_an@korea.ac.kr
 
 
