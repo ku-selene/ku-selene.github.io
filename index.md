@@ -6,7 +6,11 @@ layout: home
 list_title: Announcement
 ---
 
-> This site is currently under construction. Check back soon for exciting updates on our research and news!
+---
+
+> This site is currently under construction. 👷 Check back soon for exciting updates on our research and news!
+
+---
 
 ## Contact
 
