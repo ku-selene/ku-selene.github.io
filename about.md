@@ -38,6 +38,7 @@ permalink: /About/
 
 ### Research Focus
 - **Fault Localization with LLMs**
+- **Log Analysis**
 - **Industrial Test Automation**
 - **Bug-Inducing Commit Identification**
 - **Documentation–Code Consistency Check**
