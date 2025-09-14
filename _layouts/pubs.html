@@ -13,22 +13,31 @@ layout: default
   <ul class="pub-list">
     {% for pub in publications %}
     <li>
-      <h2>
+      <h3>
         <a class="pub-link" href="{{ pub.url }}">{{ pub.title | escape }}</a>
-      </h2>
-      <p class="post-meta">
-        Venue: {{ pub.booktitle }}{% if pub.award %}, <strong>{{ pub.award }}</strong> 🏆{% endif %}
-        <br>Year: {{ pub.year }}
-        <br>Authors: {{ pub.authors }}
-        {% if pub.track %}
-        <br>Track: {{ pub.track }}
-        {% endif %}
-        {% if pub.doi %}
-        <br>DOI: <a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>
-        {% endif %}
-        {% if pub.arxiv %}
-        <br>Preprint: <a href="{{ pub.arxiv }}" target="_blank">{{ pub.arxiv }}</a>
-        {% endif %}
+      </h3>
+      <div class="post-meta">
+          <span class="material-symbols-sharp">home</span> Venue: {{ pub.booktitle }}{% if pub.award %}, <strong>{{ pub.award }}</strong> 🏆{% endif %}
+      </div>
+      <div class="post-meta">
+        <!-- <br> Year: {{ pub.year }} -->
+        <span class="material-symbols-sharp">group</span> Authors: {{ pub.authors }}
+      </div>
+      {% if pub.track %}
+      <div class="post-meta">  
+        <span class="material-symbols-sharp">road</span> Track: {{ pub.track }}
+      </div>
+      {% endif %}
+      {% if pub.doi %}
+      <div class="post-meta">  
+        <span class="material-symbols-sharp">topic</span> DOI: <a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>
+      </div>
+      {% endif %}
+      {% if pub.arxiv %}
+      <div class="post-meta">  
+        <span class="material-symbols-sharp">visibility</span> Preprint: <a href="{{ pub.arxiv }}" target="_blank">{{ pub.arxiv }}</a>
+      </div>
+      {% endif %}
       </p>
     </li>
     {% unless forloop.last %}

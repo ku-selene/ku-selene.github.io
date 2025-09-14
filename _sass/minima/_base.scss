@@ -9,11 +9,9 @@ dl, dd, ol, ul, figure {
 }
 
 hr {
-  margin-top: $base-font-size;
-  margin-bottom: $base-font-size;
+  margin-top: $base-font-size * 2;
+  margin-bottom: $base-font-size * 2;
 }
-
-
 
 /**
  * Basic styling
@@ -111,9 +109,9 @@ a {
   color: $brand-color;
   text-decoration: none;
 
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
+  // &:visited {
+  //   color: darken($brand-color, 15%);
+  // }
 
   &:hover {
     color: $text-color;
