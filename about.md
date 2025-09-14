@@ -55,7 +55,7 @@ permalink: /About/
 
 ## 💌 Join Us
 
-We welcome students and collaborators passionate about AI-for-SE, eager to design automated software engineering methodologies that make better software systems. 
+We welcome students and collaborators passionate about AI-for-SE, eager to design automated software engineering methodologies that build better systems and alleviate developers’ burden in maintenance tasks such as debugging and log analysis.
 We are currently seeking both undergraduate and graduate research assistants. If you are interested, please feel free to reach out!
 
 - Contact: gabin_an@korea.ac.kr  
