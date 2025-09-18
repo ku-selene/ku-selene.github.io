@@ -7,7 +7,7 @@ permalink: /About/
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <div style="flex: 1;">
-    <img src="/assets/images/gabin.png" alt="Gabin An" style="max-width:200px; border-radius:10px;" />
+    <img src="/assets/images/gabin.png" alt="Gabin An" style="border-radius:10px;" />
   </div>
 
   <div style="flex: 3;">
@@ -16,18 +16,16 @@ permalink: /About/
       I am an <strong>Assistant Professor</strong> in the <strong>Department of Computer Science and Engineering</strong> at <strong>Korea University</strong>.
       My recent research focuses on <strong>AI-for-SE</strong>, especially applying <strong>Large Language Models (LLMs)</strong> to software testing, debugging, and maintenance.
     </p>
-    <ul>
-      <li><strong>Email:</strong> gabin_an@korea.ac.kr</li>
-      <li><strong>Personal Website:</strong> <a href="https://agb94.github.io">https://agb94.github.io</a></li>
-    </ul>
-    <h3>Background</h3>
-    <ul>
-      <li>Software Engineer in Test at <strong>Roku</strong> (2024–2025)</li>
-      <li><strong>Ph.D. in Computer Science</strong>, KAIST (2024, Distinguished Dissertation Award)</li>
-      <li><strong>M.Sc. & B.Sc. in Computer Science</strong>, KAIST (Summa Cum Laude)</li>
-    </ul>
   </div>
 </div>
+
+- Email: gabin_an@korea.ac.kr
+- Personal Website: [https://agb94.github.io](https://agb94.github.io)
+
+### Background
+- Software Engineer in Test at **Roku** (2024–2025)
+- **Ph.D. in Computer Science**, KAIST (2024, Distinguished Dissertation Award)
+- **M.Sc. & B.Sc. in Computer Science**, KAIST (Summa Cum Laude)
 
 ---
 
