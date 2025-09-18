@@ -4,20 +4,10 @@ title: About
 permalink: /About/
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+## 👩🏻‍💻 Gabin An
 
-  <div style="flex: 1;">
-    <img src="/assets/images/gabin.png" alt="Gabin An" style="border-radius:10px;" />
-  </div>
-
-  <div style="flex: 3;">
-    <h2>Gabin An</h2>
-    <p>
-      I am an <strong>Assistant Professor</strong> in the <strong>Department of Computer Science and Engineering</strong> at <strong>Korea University</strong>.
-      My recent research focuses on <strong>AI-for-SE</strong>, especially applying <strong>Large Language Models (LLMs)</strong> to software testing, debugging, and maintenance.
-    </p>
-  </div>
-</div>
+I am an **Assistant Professor** in the **Department of Computer Science and Engineering** at **Korea University**.
+My recent research focuses on **AI-for-SE**, especially applying **Large Language Models (LLMs)** to software testing, debugging, and maintenance.
 
 - Email: gabin_an@korea.ac.kr
 - Personal Website: [https://agb94.github.io](https://agb94.github.io)
