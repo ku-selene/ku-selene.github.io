@@ -11,7 +11,7 @@ Starting in **September 2025**, the **SELENE Lab** will officially open in the *
 
 For inquiries, please feel free to contact **[gabin_an@korea.ac.kr](mailto:gabin_an@korea.ac.kr)** (Gabin An).
 
-We are also looking for **undergraduate research assistants** who are interested in:
+We are also looking for **undergraduate/graduate research assistants** who are interested in:
 
 - **Software Engineering**  
 - **Automated Software Testing and Debugging**  
@@ -30,7 +30,7 @@ Looking forward to hearing from many of you! 🌙
 
 랩에 대해 궁금한 점이 있으면 언제든지 **[gabin_an@korea.ac.kr](mailto:gabin_an@korea.ac.kr)** (안가빈) 으로 연락 주세요.
 
-또한 아래 주제에 관심 있는 **학부생 연구원**을 모집합니다.
+또한 아래 주제에 관심 있는 **학부생/대학원생 연구원**을 모집합니다.
 - **Software Engineering 전반**  
 - **자동화된 Software Testing / Debugging**  
 - **대규모언어모델(LLM) 활용**과 소프트웨어 엔지니어링의 접점
