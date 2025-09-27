@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Opening of SELENE Lab (Sept 2025) 🎉 & Recruiting Undergraduate Researchers"
+title:  "Opening of SELENE Lab (Sept 2025) 🎉 & Recruiting Research Assistants"
 date:   2025-08-27 20:00:00 +0900
 categories: selene announcement
 tags: [Korea University, SELENE, Software Engineering, Recruiting]
