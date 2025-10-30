@@ -4,8 +4,11 @@ title: "FDG: A Precise Measurement of Fault Diagnosability Gain of Test Cases"
 authors: "Gabin An, Shin Yoo"
 booktitle: "31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'22)"
 year: 2022
+month: 2022-07
 track: "Technical Track"
 doi: "10.1145/3533767.3534370"
+keywords: "Fault Diagnosability, Coverage, Test Selection, Test Suite Augmentation, Iterative Fault Localization, Defects4J (Java)"
+
 ---
 
 # Abstract

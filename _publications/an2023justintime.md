@@ -4,10 +4,12 @@ title: "Just-in-Time Flaky Test Detection via Abstracted Failure Symptom Matchin
 authors: "Gabin An, Juyeon Yoon, Thomas Bach, Jingun Hong, Shin Yoo"
 booktitle: "40th International Conference on Software Maintenance and Evolution (ICSME'24)"
 year: 2024
+month: 2024-10
 track: "Industry Track"
 doi: "10.1109/ICSME58944.2024.00078"
 award: "Best Industry Paper Award"
-arxiv: "https://arxiv.org/abs/2310.06298"
+preprint: "https://arxiv.org/abs/2310.06298"
+keywords: "Flaky Test, Continuous Integration, Error Message, Failure Symptoms, Test Optimization, Industrial Software, SAP HANA (C/C++)"
 ---
 
 # Abstract

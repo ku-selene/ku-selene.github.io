@@ -4,8 +4,10 @@ title: "Reducing the Search Space of Bug Inducing Commits using Failure Coverage
 authors: "Gabin An, Shin Yoo"
 booktitle: "29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'21)"
 year: 2021
+month: 2021-08
 track: "Ideas, Visions, and Reflections Track"
 doi: "10.1145/3468264.3473129"
+keywords: "Bug Inducing Commit, Test Coverage, Commit History, Defects4J (Java)"
 ---
 
 # Abstract

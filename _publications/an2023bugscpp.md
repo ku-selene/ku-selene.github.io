@@ -4,8 +4,10 @@ title: "BUGSC++: A Highly Usable Real World Defect Benchmark for C/C++"
 authors: "Gabin An, Minhyuk Kwon, Kyunghwa Choi, Jooyong Yi, Shin Yoo"
 booktitle: "38th IEEE/ACM International Conference on Automated Software Engineering (ASE'23)"
 year: 2023
+month: 2023-09
 track: "Tool Demos"
 doi: "10.1109/ASE56229.2023.00208"
+keywords: "Software Testing, Defect Benchmark, C/C++"
 ---
 
 # Abstract

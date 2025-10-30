@@ -4,8 +4,10 @@ title: "METAMON: Finding Inconsistencies between Program Documentation and Behav
 authors: "Hyeonseok Lee, Gabin An, Shin Yoo"
 booktitle: "2th International Workshop on Large Language Models for Code (LLM4Code@ICSE'25)"
 year: 2025
+month: 2025-05
 doi: "10.1109/LLM4Code66737.2025.00020"
-arxiv: "https://arxiv.org/abs/2502.02794"
+preprint: "https://arxiv.org/abs/2502.02794"
+keywords: "Metamorphic Testing, Code Documentation, Large Language Models, Oracle Problem, Regression Test, Defects4J (Java)"
 ---
 
 # Abstract

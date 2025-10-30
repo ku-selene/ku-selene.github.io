@@ -4,8 +4,10 @@ title: "Evaluating Machine Learning-Based Test Case Prioritization in the Real W
 authors: "Jeongki Son, Gabin An, Jingun Hong, Shin Yoo"
 booktitle: "18th IEEE International Conference on Software Testing, Verification and Validation (ICST'25)"
 year: 2025
+month: 2025-03
 track: "Industry Track"
 doi: "10.1109/ICST62969.2025.10989019"
+keywords: "Test Case Prioritization, Machine Learning, Reinforcement Learning, Industrial Software, SAP HANA (C/C++)"
 ---
 
 # Abstract

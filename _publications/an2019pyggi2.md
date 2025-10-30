@@ -4,8 +4,10 @@ title: "PyGGI 2.0: Language Independent Genetic Improvement Framework"
 authors: "Gabin An, Aymeric Blot, Justyna Petke, Shin Yoo"
 booktitle: "27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE'19)"
 year: 2019
+month: 2019-08
 track: "Tool Demos"
 doi: "10.1145/3338906.3341184"
+keywords: "Search-based Software Engineering, Genetic Improvement, PyGGI, Python Framework"
 ---
 
 # Abstract

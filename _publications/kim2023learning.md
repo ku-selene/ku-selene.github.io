@@ -4,8 +4,10 @@ title: "Learning Test-Mutant Relationship for Accurate Fault Localisation"
 authors: "Jinhan Kim, Gabin An, Robert Feldt, Shin Yoo"
 booktitle: "Information and Software Technology"
 year: 2023
+month: 2023-10
 doi: "10.1016/J.INFSOF.2023.107272"
-arxiv: "https://arxiv.org/abs/2306.02319"
+preprint: "https://arxiv.org/abs/2306.02319"
+keywords: "Mutation Testing, Fault localization, Mutation-based Fault Localization, Defects4J (Java)"
 ---
 
 # Abstract

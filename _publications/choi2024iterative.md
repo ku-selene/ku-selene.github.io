@@ -4,8 +4,11 @@ title: "Iterative Refactoring of Real-World Open-Source Programs with Large Lang
 authors: "Jinsu Choi, Gabin An, Shin Yoo"
 booktitle: "16th International Symposium on Search-Based Software Engineering (SSBSE'24)"
 year: 2024
+month: 2024-07
 track: "Challenge Track"
 doi: "10.1007/978-3-031-64573-0_4"
+preprint: "https://coinse.github.io/publications/pdfs/Choi2024aa.pdf"
+keywords: "Code Refactoring, Large Language Models, Cyclomatic Complexity, Defects4J (Java)"
 ---
 
 # Abstract

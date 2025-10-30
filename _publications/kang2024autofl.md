@@ -4,9 +4,11 @@ title: "A Quantitative and Qualitative Evaluation of LLM-based Explainable Fault
 authors: "Sungmin Kang*, Gabin An*, Shin Yoo"
 booktitle: "Proceedings of the ACM on Software Engineering and Volume 1, Number FSE (FSE'24)"
 year: 2024
+month: 2024-07
 track: "Research Track"
 doi: "10.1145/3660771"
-arxiv: "https://arxiv.org/abs/2308.05487"
+preprint: "https://arxiv.org/abs/2308.05487"
+keywords: "Fault Localization, Large Language Models, Automated Debugging, Root Cause Analysis, Defects4J (Java), BugsInPy (Python)"
 ---
 
 # Abstract

@@ -4,9 +4,11 @@ title: "Searching for Multi-Fault Programs in Defects4J"
 authors: "Gabin An, Juyeon Yoon, Shin Yoo"
 booktitle: "13th International Symposium on Search Based Software Engineering (SSBSE'21)"
 year: 2021
+month: 2021-09
 track: "Challenge Track"
 doi: "10.1007/978-3-030-88106-1_11"
-arxiv: "https://arxiv.org/abs/2108.04455"
+preprint: "https://arxiv.org/abs/2108.04455"
+keywords: "Software Faults, Multiple Faults, Bug Database, Defects4J (Java)"
 ---
 
 # Abtract

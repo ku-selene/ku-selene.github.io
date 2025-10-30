@@ -4,8 +4,10 @@ title: "Assisting Bug Report Assignment Using Automated Fault Localisation: An I
 authors: "Jeongju Sohn*, Gabin An*, Jingun Hong, Dongwon Hwang, Shin Yoo"
 booktitle: "14th IEEE International Conference on Software Testing, Verification and Validation (ICST'21)"
 year: 2021
+month: 2021-04
 track: "Industry Track"
 doi: "10.1109/ICST49551.2021.00041"
+keywords: "Fault Localization, Spectrum-based Fault Localization, Test Suite Diagnosability, Voting, Industrial Software, SAP HANA (C/C++)"
 ---
 
 # Abstract

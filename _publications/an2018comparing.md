@@ -4,7 +4,9 @@ title: "Comparing Line and AST Granularity Level for Program Repair using PyGGI"
 authors: "Gabin An, Jinhan Kim, Shin Yoo"
 booktitle: "4th Genetic Improvement Workshop (GI@ICSE'18)"
 year: 2018
+month: 2018-06
 doi: "10.1145/3194810.3194814"
+keywords: "Search-based Software Engineering, Genetic Improvement, Automated Program Repair, PyGGI, Python Framework"
 ---
 
 # Abstract

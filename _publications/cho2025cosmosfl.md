@@ -4,8 +4,10 @@ title: "COSMosFL: Ensemble of Small Language Models for Fault Localisation"
 authors: "Hyunjoon Cho, Sungmin Kang, Gabin An, Shin Yoo"
 booktitle: "2th International Workshop on Large Language Models for Code (LLM4Code@ICSE'25)"
 year: 2025
+month: 2025-05
 doi: "10.1109/LLM4Code66737.2025.00007"
-arxiv: "https://arxiv.org/abs/2502.02908"
+preprint: "https://arxiv.org/abs/2502.02908"
+keywords: "Fault Localization, Ensemble Methods, Small Language Models, Evolutionary Algorithms, Defects4J (Java)"
 ---
 
 # Abstract

@@ -4,8 +4,10 @@ title: "Ahead of Time Mutation Based Fault Localisation using Statistical Infere
 authors: "Jinhan Kim, Gabin An, Robert Feldt, Shin Yoo"
 booktitle: "32nd International Symposium on Software Reliability Engineering (ISSRE'21)"
 year: 2021
+month: 2021-10
 track: "Research Track"
 doi: "10.1109/ISSRE52982.2021.00036"
+keywords: "Mutation Testing, Fault localization, Mutation-based Fault Localization, Defects4J (Java)"
 ---
 
 # Abstract

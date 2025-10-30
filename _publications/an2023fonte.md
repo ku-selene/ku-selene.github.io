@@ -4,9 +4,11 @@ title: "Fonte: Finding Bug Inducing Commits from Failures"
 authors: "Gabin An, Jingun Hong, Naryeong Kim, Shin Yoo"
 booktitle: "45th IEEE/ACM International Conference on Software Engineering (ICSE'23)"
 year: 2023
+month: 2023-05
 track: "Technical Track"
 doi: "10.1109/ICSE48619.2023.00059"
-arxiv: "https://arxiv.org/abs/2212.06376"
+preprint: "https://arxiv.org/abs/2212.06376"
+keywords: "Bug Inducing Commit, Fault Localization, Git, Commit History, Weighted Bisection, Batch Testing, Industrial Software, Defects4J (Java), SAP HANA (C/C++)"
 ---
 
 # Abstract

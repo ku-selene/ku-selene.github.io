@@ -4,8 +4,10 @@ title: "Automatically Identifying Shared Root Causes of Test Breakages in SAP HA
 authors: "Gabin An*, Juyeon Yoon*, Jeongju Sohn, Jingun Hong, Dongwon Hwang, Shin Yoo"
 booktitle: "44th IEEE/ACM International Conference on Software Engineering (ICSE'22)"
 year: 2022
+month: 2022-10
 track: "SEIP Track"
 doi: "10.1145/3510457.3513051"
+keywords: "Continuous Integration, Test Similarity, Failure Similarity, Root Cause Analysis, Hypergraphs, Industrial Software, SAP HANA (C/C++)"
 ---
 
 # Abstract

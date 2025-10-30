@@ -4,8 +4,10 @@ title: "Lachesis: Predicting LLM Inference Accuracy using Structural Properties 
 authors: "Naryeong Kim, Sungmin Kang, Gabin An, Shin Yoo"
 booktitle: "6th International Workshop on Deep Learning for Testing and Testing for Deep Learning (DeepTest@ICSE'25)"
 year: 2025
+month: 2025-05
 doi: "10.1109/DEEPTEST66595.2025.00008"
-arxiv: "https://arxiv.org/abs/2412.08281"
+preprint: "https://arxiv.org/abs/2412.08281"
+keywords: "Large Language Models, Self-Consistency, Accuracy Prediction, Defects4J (Java), BugsInPy (Python)"
 ---
 
 # Abstract

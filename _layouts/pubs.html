@@ -7,8 +7,7 @@ layout: default
 <i class="fa fa-envelope"></i>
 
 <div class="publications">
-  {% assign publications = site.publications | sort: "year" | reverse %}
-  
+  {% assign publications = site.publications | sort: "month" | reverse %}
   <h2 class="pub-list-heading">Publications</h2>
   <ul class="pub-list">
     {% for pub in publications %}
@@ -16,29 +15,37 @@ layout: default
       <h3>
         <a class="pub-link" href="{{ pub.url }}">{{ pub.title | escape }}</a>
       </h3>
-      <div class="post-meta">
+      <div class="pub-meta">
           <span class="material-symbols-sharp">home</span> Venue: {{ pub.booktitle }}{% if pub.award %}, <strong>{{ pub.award }}</strong> 🏆{% endif %}
       </div>
-      <div class="post-meta">
-        <!-- <br> Year: {{ pub.year }} -->
+      <div class="pub-meta">
+        <!-- <br> Year: {{ pub.year }} {{ pub.month }} -->
         <span class="material-symbols-sharp">group</span> Authors: {{ pub.authors }}
       </div>
       {% if pub.track %}
-      <div class="post-meta">  
+      <div class="pub-meta">  
         <span class="material-symbols-sharp">road</span> Track: {{ pub.track }}
       </div>
       {% endif %}
       {% if pub.doi %}
-      <div class="post-meta">  
+      <div class="pub-meta">  
         <span class="material-symbols-sharp">topic</span> DOI: <a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.doi }}</a>
       </div>
       {% endif %}
-      {% if pub.arxiv %}
-      <div class="post-meta">  
-        <span class="material-symbols-sharp">visibility</span> Preprint: <a href="{{ pub.arxiv }}" target="_blank">{{ pub.arxiv }}</a>
+      {% if pub.preprint %}
+      <div class="pub-meta">  
+        <span class="material-symbols-sharp">visibility</span> Preprint: <a href="{{ pub.preprint }}" target="_blank">{{ pub.preprint }}</a>
       </div>
       {% endif %}
-      </p>
+      {% if pub.keywords %}
+      <div class="pub-meta keywords">  
+        {% assign keywords = pub.keywords | split: "," %}
+        {% for keyword in keywords %}
+          {% assign kw = keyword | strip %}
+          <span class="pub-badge">{{ kw }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
     </li>
     {% unless forloop.last %}
     <hr>
