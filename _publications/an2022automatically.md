@@ -7,6 +7,7 @@ year: 2022
 month: 2022-10
 track: "SEIP Track"
 doi: "10.1145/3510457.3513051"
+preprint: "https://coinse.github.io/publications/pdfs/An2022qe.pdf"
 keywords: "Continuous Integration, Test Similarity, Failure Similarity, Root Cause Analysis, Hypergraphs, Industrial Software, SAP HANA (C/C++)"
 ---
 
