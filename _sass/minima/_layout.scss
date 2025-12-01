@@ -280,6 +280,7 @@
 .pub-meta {
   font-size: $base-font-size;
   color: $grey-color-dark;
+  word-wrap: break-word;
 }
 
 .pub-meta .material-symbols-sharp {
@@ -333,3 +334,4 @@
   border-color: #94a3b8;
   color: #1e293b;
 }
+
