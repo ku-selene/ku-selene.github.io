@@ -1,25 +1,10 @@
 ---
 layout: default
 title: About
-permalink: /About/
+permalink: /about/
 ---
 
-## 👩🏻‍💻 Gabin An
-
-I am an **Assistant Professor** in the **Department of Computer Science and Engineering** at **Korea University**.
-My recent research focuses on **AI-for-SE**, especially applying **Large Language Models (LLMs)** to software testing, debugging, and maintenance.
-
-- Email: gabin_an@korea.ac.kr
-- Personal Website: [https://agb94.github.io](https://agb94.github.io)
-
-### Background
-- Software Engineer in Test at **Roku** (2024–2025)
-- **Ph.D. in Computer Science**, KAIST (2024, Distinguished Dissertation Award)
-- **M.Sc. & B.Sc. in Computer Science**, KAIST (Summa Cum Laude)
-
----
-
-## 🌙 SELENE: Software Engineering Laboratory for Next-Gen Ecosystems
+## **SELENE: Software Engineering Laboratory for Next-Gen Ecosystems**
 
 **SELENE** integrates classical principles of **Software Engineering (SE)** with state-of-the-art **Artificial Intelligence (AI)** to develop and explore automated methodologies that make software more reliable (with fewer bugs) and easier to maintain. Rather than merely applying AI as-is, we emphasize ensuring that the resulting systems are *trustworthy* and *practical* in real-world settings.
 
@@ -48,3 +33,5 @@ We welcome students and collaborators passionate about AI-for-SE, eager to desig
 We are currently seeking both undergraduate and graduate research assistants. If you are interested, please feel free to reach out!
 
 - Contact: gabin_an@korea.ac.kr  
+
+![](/assets/images/default-hero.png)
