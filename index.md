@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Software Engineering Laboratory for Next-Gen Ecosystems
 layout: home
-list_title: Announcement
+list_title: News
 ---
 
 

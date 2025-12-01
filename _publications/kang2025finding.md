@@ -2,7 +2,8 @@
 layout: pub_detail
 title: "Finding the Needle in the Crash Stack: Industrial-Scale Crash Root Cause Localization with AutoCrashFL"
 authors: "Sungmin Kang, Sumi Yun, Jingun Hong, Shin Yoo, Gabin An"
-booktitle: "Under Review 📝"
+booktitle: "48th IEEE/ACM International Conference on Software Engineering (ICSE'26) - To Appear 👀"
+track: "SEIP Track"
 year: 2025 
 month: 2025-10
 preprint: "https://arxiv.org/abs/2510.22530"
