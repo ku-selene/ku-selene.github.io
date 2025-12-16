@@ -121,8 +121,6 @@ PR이 승인되고 병합되면 홈페이지([https://ku-selene.github.io](https
 여러 번 작업하는 경우, conflict을 방지하기 위해 주기적으로 upstream 변경 사항을 반영해주세요.
 
 ```bash
-git checkout main
 git fetch upstream
-git merge upstream/main
-git push origin main
+git rebase upstream/main
 ```
