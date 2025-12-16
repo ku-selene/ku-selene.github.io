@@ -4,31 +4,85 @@ title: Members
 permalink: /members/
 ---
 
-# PI: Gabin An
+# PI
 
-Dr. Gabin An is an **Assistant Professor** in the **Department of Computer Science and Engineering** at **Korea University**. Her recent research focuses on **AI-for-SE**, especially applying **Large Language Models (LLMs)** to software testing, debugging, and maintenance.
+<div class="people-grid one-column">
+<div class="person-card">
+  <div class="avatar-wrapper">
+    <img class="avatar" src="/assets/images/gabin-2.jpg" alt="Gabin An" />
+  </div>
 
-- Email: gabin_an@korea.ac.kr
-- Personal Website: [https://agb94.github.io](https://agb94.github.io)
+  <div class="person-info">
+    <p class="name">Gabin An</p>
 
-### Background
-- Software Engineer in Test at **Roku** (2024–2025)
-- **Ph.D. in Computer Science**, KAIST (2024, Distinguished Dissertation Award)
-- **M.Sc. & B.Sc. in Computer Science**, KAIST (Summa Cum Laude)
+    <ul class="person-bullets">
+      <li>Assistant Professor, Department of Computer Science and Engineering, Korea University (Sep 2025 – Present)</li>
+      <li>Software Engineer in Test at Roku (Jun 2024 – Jul 2025)</li>
+      <li>Ph.D. in Computer Science, KAIST (Aug 2024, Distinguished Dissertation Award)</li>
+    </ul>
 
+    <div class="person-links">
+      <a href="https://agb94.github.io/cv.pdf" target="_blank" rel="noopener">CV</a>
+      <a href="mailto:gabin_an@korea.ac.kr">Email</a>
+      <a href="https://agb94.github.io" target="_blank" rel="noopener">Personal Website</a>
+    </div>
+  </div>
+</div>
+</div>
 
----
 
 # Graduate Students
 
-```
-We're hiring graduate students for Fall 2026 🤗 Please reach out to gabin_an@korea.ac.kr.
-```
+<div class="people-grid">
+<div class="person-card">
+<div class="avatar-wrapper">
+    <img src="/assets/images/sally-selene.png" class="avatar empty" alt="Empty position" />
+    <span class="avatar-hover-text">You!</span>
+</div>
 
----
+<div>
+<p class="name">We’re hiring graduate students for Fall 2026!</p>
+<p>Interested in SE? Reach out with your CV & transcript.</p>
+<div class="person-links">
+    <a href="/join-us">💌 Join</a>
+</div>
+</div>
+</div>
+</div>
+
+
 
 # Undergraduate Interns
 
-- [**Ejun Park**](/members/ejun.md), Korea University
+<div class="people-grid">
+<div class="person-card">
+   <div class="avatar-wrapper">
+    <img class="avatar" src="/assets/images/sally-selene.png" alt="Ejun Park" />
+  </div>
+  <div>
+    <p class="name">Ejun Park</p>
+    <ul>
+      <li>Undergraduate student, Division of Smart Security, Korea University</li>
+    </ul>
+    <div class="person-links">
+      <a href="/members/ejun">Personal Page</a>
+      <a href="mailto:joonleo@korea.ac.kr">Email</a>
+    </div>
+  </div>
+</div>
 
-![](/assets/images/default-hero.png)
+<div class="person-card">
+    <div class="avatar-wrapper">
+        <img src="/assets/images/sally-selene.png" class="avatar empty" alt="Empty position" />
+        <span class="avatar-hover-text">You!</span>
+    </div>
+    <div>
+    <p class="name">We’re hiring undergraduate interns!</p>
+    <p>Interested in SE? Reach out with your CV & transcript.</p>
+    <div class="person-links">
+        <a href="/join-us">💌 Join</a>
+    </div>
+    </div>
+</div>
+
+</div>

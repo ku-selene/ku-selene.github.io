@@ -335,3 +335,98 @@
   color: #1e293b;
 }
 
+.people-grid {
+  display: grid;
+  gap: 24px;
+  margin-bottom: 20px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.people-grid.one-column {
+  grid-template-columns: 1fr;
+}
+
+@include media-query($on-palm) {
+  .people-grid { grid-template-columns: 1fr; }
+}
+
+.person-card {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  padding: 16px;
+  border: 1px solid #eee;
+  border-radius: 14px;
+  background: #fff;
+}
+
+.person-card .avatar-wrapper {
+  position: relative;
+  width: 100px;
+  height: auto;
+}
+
+.person-card .avatar-wrapper .avatar {
+  min-width: 100px;
+  height: auto;
+  border-radius: 16px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.person-card .avatar-wrapper .avatar.empty {
+  opacity: 0.3;
+}
+
+/* Hover text */
+.person-card .avatar-hover-text {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-weight: 700;
+  font-size: 1rem;
+  color: #333;
+
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 16px;
+
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none; /* 클릭 방해 안 함 */
+}
+
+/* Show on hover */
+.person-card .avatar-wrapper:hover .avatar-hover-text {
+  opacity: 1;
+}
+
+.person-card .name {
+  margin: 0 0 6px 0;
+  font-weight: 700;
+}
+
+.person-card ul {
+  margin: 0.25rem 0 0.75rem 1.2rem;
+}
+
+.person-card .person-links {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.person-card .person-links a {
+  display: inline-block;
+  padding: 6px 10px;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+.person-card .person-links a:hover {
+  border-color: #aaa;
+}
