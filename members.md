@@ -26,10 +26,10 @@ permalink: /members/
       <a href="mailto:gabin_an@korea.ac.kr">Email</a>
       <a href="https://agb94.github.io" target="_blank" rel="noopener">Personal Website</a>
     </div>
+
   </div>
 </div>
 </div>
-
 
 # Graduate Students
 
@@ -50,14 +50,12 @@ permalink: /members/
 </div>
 </div>
 
-
-
 # Undergraduate Interns
 
 <div class="people-grid">
 <div class="person-card">
    <div class="avatar-wrapper">
-    <img class="avatar" src="/assets/images/sally-selene.png" alt="Ejun Park" />
+    <img class="avatar" src="/assets/images/ejun.png" alt="Ejun Park" />
   </div>
   <div>
     <p class="name">Ejun Park</p>
