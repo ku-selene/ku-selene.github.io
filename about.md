@@ -50,9 +50,9 @@ permalink: /about/
 
 | Related Publication | 🤖 | 👫 | 🏭 |
 |------------|:--------------:|:----------------------------:|
-| [Evaluating Machine Learning-Based Test Case Prioritization in the Real World: An Experiment with SAP HANA](/publications/son2025evaluating) | O | O |  |
+| [Evaluating Machine Learning-Based Test Case Prioritization in the Real World: An Experiment with SAP HANA](/publications/son2025evaluating) | O |  | O |
 | [FDG: A Precise Measurement of Fault Diagnosability Gain of Test Cases](/publications/an2022fdg) |  | O |  |
-| [Just-in-Time Flaky Test Detection via Abstracted Failure Symptom Matching](/publications/an2023justintime) |  | O |  |
+| [Just-in-Time Flaky Test Detection via Abstracted Failure Symptom Matching](/publications/an2023justintime) |  |  | O |
 
 ### 🧹 **Software Maintenance**
 
