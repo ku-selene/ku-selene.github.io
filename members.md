@@ -4,6 +4,7 @@ title: Members
 permalink: /members/
 ---
 
+
 # PI
 
 <div class="people-grid one-column">
@@ -31,6 +32,7 @@ permalink: /members/
 </div>
 </div>
 
+
 # Graduate Students
 
 <div class="people-grid">
@@ -50,6 +52,7 @@ permalink: /members/
 </div>
 </div>
 
+
 # Undergraduate Interns
 
 <div class="people-grid">
@@ -65,6 +68,25 @@ permalink: /members/
     <div class="person-links">
       <a href="/members/ejun">Personal Page</a>
       <a href="mailto:joonleo@korea.ac.kr">Email</a>
+    </div>
+  </div>
+</div>
+
+<div class="person-card">
+  <div class="avatar-wrapper">
+    <img class="avatar" src="/assets/images/minkyu.png" alt="Minkyu Choi" />
+  </div>
+  <div>
+    <p class="name">Minkyu Choi</p>
+    <ul>
+      <li>
+        Undergraduate student, Department of Computer Science and Software Engineering, Korea University
+        <small>(Sejong)</small>
+      </li>
+    </ul>
+    <div class="person-links">
+      <a href="/members/minkyu">Personal Page</a>
+      <a href="mailto:minkyuchoi0320@gmail.com">Email</a>
     </div>
   </div>
 </div>
