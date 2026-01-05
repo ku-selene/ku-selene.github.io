@@ -92,6 +92,24 @@ permalink: /members/
 </div>
 
 <div class="person-card">
+  <div class="avatar-wrapper">
+    <img class="avatar" src="/assets/images/hosung.png" alt="Hosung Kang" />
+  </div>
+  <div>
+    <p class="name">Hosung Kang</p>
+    <ul>
+      <li>
+        Undergraduate student, Department of Computer Science and Engineering, Ewha Womans University
+      </li>
+    </ul>
+    <div class="person-links">
+      <a href="/members/hosung">Personal Page</a>
+      <a href="mailto:kanghsung717@ewhain.net">Email</a>
+    </div>
+  </div>
+</div>
+
+<div class="person-card">
     <div class="avatar-wrapper">
         <img src="/assets/images/sally-selene.png" class="avatar empty" alt="Empty position" />
         <span class="avatar-hover-text">You!</span>
