@@ -110,6 +110,22 @@ permalink: /members/
 </div>
 
 <div class="person-card">
+   <div class="avatar-wrapper">
+    <img class="avatar" src="/assets/images/taehyun.jpg" alt="Taehyun Kwon" />
+  </div>
+  <div>
+    <p class="name">Taehyun Kwon</p>
+    <ul>
+      <li>Undergraduate student, College of Informatics, Korea University</li>
+    </ul>
+    <div class="person-links">
+      <a href="/members/taehyun">Personal Page</a>
+      <a href="mailto:nalgae@korea.ac.kr">Email</a>
+    </div>
+  </div>
+</div>
+
+<div class="person-card">
     <div class="avatar-wrapper">
         <img src="/assets/images/sally-selene.png" class="avatar empty" alt="Empty position" />
         <span class="avatar-hover-text">You!</span>
