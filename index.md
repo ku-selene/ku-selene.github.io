@@ -10,8 +10,9 @@ list_title: News
 ## Contact
 
 - **Address:**
-  - [02841] Room 616A, Science Library, 145 Anam-ro, Seongbuk-gu, Seoul, Republic of Korea
-  - [02841] 서울 성북구 안암로 145 고려대학교 자연계캠퍼스 과학도서관 616A호
+  - English: [02841] Room 616A, Science Library, 145 Anam-ro, Seongbuk-gu, Seoul, Republic of Korea
+  - Korean: [02841] 서울 성북구 안암로 145 고려대학교 자연계캠퍼스 과학도서관 616A호
+- **Office Phone**: +82-2-3290-3979
 - **Email:** gabin_an@korea.ac.kr
 
 
