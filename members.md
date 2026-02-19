@@ -126,6 +126,22 @@ permalink: /members/
 </div>
 
 <div class="person-card">
+   <div class="avatar-wrapper">
+    <img class="avatar" src="/assets/images/suin.jpg" alt="Suin Moon" />
+  </div>
+  <div>
+    <p class="name">Suin Moon</p>
+    <ul>
+      <li>Undergraduate student, Department of Computer Science and Engineering, Korea University</li>
+    </ul>
+    <div class="person-links">
+      <a href="/members/suin">Personal Page</a>
+      <a href="mailto:msi7366@korea.ac.kr">Email</a>
+    </div>
+  </div>
+</div>
+
+<div class="person-card">
     <div class="avatar-wrapper">
         <img src="/assets/images/sally-selene.png" class="avatar empty" alt="Empty position" />
         <span class="avatar-hover-text">You!</span>
