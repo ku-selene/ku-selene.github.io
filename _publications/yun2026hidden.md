@@ -1,7 +1,7 @@
 ---
 layout: pub_detail
 title: "The Hidden Costs of Evaluating Automated CI Repair at SAP HANA"
-authors: "Sumi Yun, Jingun Hong, Somin Kim, Hyunjoon Cho, Gabin An and Shin Yoo"
+authors: "Sumi Yun, Jingun Hong, Somin Kim, Hyunjoon Cho, Gabin An, Shin Yoo"
 booktitle: "19th IEEE International Conference on Software Testing, Verification and Validation (ICST'26)"
 booktitle: "6th CI/CD Industry Workshop (CCIW@ICST'26)"
 year: 2026
