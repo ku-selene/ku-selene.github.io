@@ -13,7 +13,7 @@ permalink: /about/
 ## Our Principles
 
 
-![](/assets/images/principles.png)
+<!-- ![](/assets/images/principles.png) -->
 
 1. **Commitment to Better Software**: In the rapidly evolving software ecosystem, we continuously redefine what it means to build better software, explore this vision from multiple perspectives, and engage with all challenges necessary to realize it.
 

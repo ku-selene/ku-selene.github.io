@@ -24,6 +24,12 @@
   }
 }
 
+.site-logo {
+  height: 30px;      /* 필요에 따라 조절 */
+  width: auto;
+  vertical-align: middle;
+}
+
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
@@ -194,7 +200,7 @@
 
   > li {
     margin-bottom: $spacing-unit;
-    border-left: solid 10px $point-color;
+    border-left: solid 10px $brand-color;
     padding-left: 15px;
   }
 }
