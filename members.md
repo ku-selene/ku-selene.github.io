@@ -148,7 +148,7 @@ permalink: /members/
   <div>
     <p class="name">Jeongmin Lee</p>
     <ul>
-      <li>Undergraduate student, Department of Computer Science and Engineering, Korea University</li>
+      <li>Undergraduate student, Department of Computer Science and Engineering, with a double major in Mathematics, Korea University</li>
     </ul>
     <div class="person-links">
       <a href="/members/jeongmin">Personal Page</a>
