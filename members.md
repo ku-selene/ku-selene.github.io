@@ -142,6 +142,22 @@ permalink: /members/
 </div>
 
 <div class="person-card">
+   <div class="avatar-wrapper">
+    <img class="avatar" src="/assets/images/jeongmin.jpeg" alt="Jeongmin Lee" />
+  </div>
+  <div>
+    <p class="name">Jeongmin Lee</p>
+    <ul>
+      <li>Undergraduate student, Department of Computer Science and Engineering, Korea University</li>
+    </ul>
+    <div class="person-links">
+      <a href="/members/jeongmin">Personal Page</a>
+      <a href="mailto:a23493307@gmail.com">Email</a>
+    </div>
+  </div>
+</div>
+
+<div class="person-card">
     <div class="avatar-wrapper">
         <img src="/assets/images/sally-selene.png" class="avatar empty" alt="Empty position" />
         <span class="avatar-hover-text">You!</span>
