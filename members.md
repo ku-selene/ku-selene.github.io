@@ -43,7 +43,7 @@ permalink: /members/
 </div>
 
 <div>
-<p class="name">We’re hiring graduate students for Fall 2026!</p>
+<p class="name">We’re hiring graduate students for Spring 2027!</p>
 <p>Interested in SE? Reach out with your CV & transcript.</p>
 <div class="person-links">
     <a href="/join-us">💌 Join</a>
