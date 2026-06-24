@@ -23,7 +23,7 @@ permalink: /members/
     </ul>
 
     <div class="person-links">
-      <a href="https://agb94.github.io/cv.pdf" target="_blank" rel="noopener">CV</a>
+      <a href="/assets/gabin_cv.pdf" target="_blank" rel="noopener">CV</a>
       <a href="mailto:gabin_an@korea.ac.kr">Email</a>
       <a href="https://agb94.github.io" target="_blank" rel="noopener">Personal Website</a>
     </div>
