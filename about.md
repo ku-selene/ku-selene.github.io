@@ -60,6 +60,7 @@ permalink: /about/
 |------------|:--------------:|:----------------------------:|
 | [METAMON: Finding Inconsistencies between Program Documentation and Behavior using Metamorphic LLM Queries](/publications/lee2025metamon) | O | O |  |
 | [Iterative Refactoring of Real-World Open-Source Programs with Large Language Models](/publications/choi2024iterative) | O | O |  |
+| [Pig: Leveraging Large Language Models for Python Library Migrations](/publications/kang2026pig.md) | O | O | |
 
 > - 🤖 AI-for-SE
 > - 👫 Evaluated on open-source projects
