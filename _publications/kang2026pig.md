@@ -6,6 +6,7 @@ booktitle: "ACM International Conference on the Foundations of Software Engineer
 year: 2026
 month: 2026-07
 track: "Research Track"
+doi: 10.1145/3797072
 award: "Distinguished Paper Award"
 keywords: "Library Migration, Python, Large Language Models, Code Transformation"
 ---
