@@ -25,10 +25,15 @@ permalink: /about/
 
 ## Research Topics & Selected [Publications](/publications/)
 
+> - 🤖 AI-for-SE
+> - 👫 Evaluated on open-source projects
+> - 🏭 Industry collaboration / industrial case study
+
 ### 🐛 **Debugging Automation & Debugging Hints**
 
 | Related Publication | 🤖 | 👫 | 🏭 |
 |------------|:--------------:|:----------------------------:|
+| [Disassembly-Augmented Root Cause Analysis for C/C++ Segmentation Faults in SAP HANA](/publications/jung2026disassembly) | O | | O |
 | [Finding the Needle in the Crash Stack: Industrial-Scale Crash Root Cause Localization with AutoCrashFL](/publications/kang2025finding) | O |  | O |
 | [COSMosFL: Ensemble of Small Language Models for Fault Localisation](/publications/cho2025cosmosfl) | O | O |  |
 | [A Quantitative and Qualitative Evaluation of LLM-based Explainable Fault Localization](/publications/kang2024autofl) | O | O |  |
@@ -58,10 +63,6 @@ permalink: /about/
 
 | Related Publication | 🤖 | 👫 | 🏭 |
 |------------|:--------------:|:----------------------------:|
+| [Pig: Leveraging Large Language Models for Python Library Migrations](/publications/kang2026pig.md) | O | O | |
 | [METAMON: Finding Inconsistencies between Program Documentation and Behavior using Metamorphic LLM Queries](/publications/lee2025metamon) | O | O |  |
 | [Iterative Refactoring of Real-World Open-Source Programs with Large Language Models](/publications/choi2024iterative) | O | O |  |
-| [Pig: Leveraging Large Language Models for Python Library Migrations](/publications/kang2026pig.md) | O | O | |
-
-> - 🤖 AI-for-SE
-> - 👫 Evaluated on open-source projects
-> - 🏭 Industry collaboration / industrial case study
