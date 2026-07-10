@@ -6,6 +6,7 @@ booktitle: "41st IEEE/ACM International Conference on Automated Software Enginee
 year: 2026
 month: 2026-10
 track: "NIER Track"
+preprint: "https://arxiv.org/abs/2607.05197"
 keywords: "LLM-based Repair Loops, Feedback-Driven Repair, Repair Iteration Limits"
 ---
 
