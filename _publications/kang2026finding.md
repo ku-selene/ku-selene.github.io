@@ -7,6 +7,7 @@ track: "SEIP Track"
 year: 2026
 month: 2026-04
 preprint: "https://arxiv.org/abs/2510.22530"
+doi: "10.1145/3786583.3786874"
 keywords: "Fault Localization, Crash Debugging, Large Language Models, Industrial Software, Root Cause Analysis, SAP HANA (C/C++)"
 ---
 
