@@ -7,7 +7,7 @@ year: 2026
 month: 2026-07
 track: "Research Track"
 doi: 10.1145/3797072
-award: "Distinguished Paper Award"
+award: "ACM SIGSOFT Distinguished Paper Award; Distinguished Artifact Award"
 keywords: "Library Migration, Python, Large Language Models, Code Transformation"
 ---
 
