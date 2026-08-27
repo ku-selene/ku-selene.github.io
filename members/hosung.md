@@ -5,6 +5,7 @@ permalink: /members/hosung
 
 # Hosung Kang
 
-Hosung Kang is an undergraduate student pursuing a Bachelor’s degree in Computer Science and Engineering at Ewha Womans University. Her research interests lie in **AI agents**, **software testing**, and **software debugging**.
+Hosung Kang is an M.S. student in the Department of Computer Science and Engineering, College of Informatics, Korea University. Her research interests lie in **AI agents**, **software testing**, and **software debugging**.
 
-- email: [kanghsung717@ewhain.net](mailto:kanghsung717@ewhain.net)
+- email: [khosung@korea.ac.kr](mailto:khosung@korea.ac.kr)
+- LinkedIn: [hosung-kang](https://www.linkedin.com/in/hosung-kang/)
