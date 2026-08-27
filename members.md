@@ -36,19 +36,36 @@ permalink: /members/
 # Graduate Students
 
 <div class="people-grid">
+
 <div class="person-card">
-<div class="avatar-wrapper">
-    <img src="/assets/images/sally-selene.png" class="avatar empty" alt="Empty position" />
-    <span class="avatar-hover-text">You!</span>
+  <div class="avatar-wrapper">
+    <img class="avatar" src="/assets/images/hosung.png" alt="Hosung Kang" />
+  </div>
+  <div>
+    <p class="name">Hosung Kang</p>
+    <ul>
+      <li>M.S. student, Department of Computer Science and Engineering, College of Informatics, Korea University</li>
+    </ul>
+    <div class="person-links">
+      <a href="/members/hosung">Personal Page</a>
+      <a href="mailto:khosung@korea.ac.kr">Email</a>
+    </div>
+  </div>
 </div>
 
-<div>
-<p class="name">We’re hiring graduate students for Spring 2027!</p>
-<p>Interested in SE? Reach out with your CV & transcript.</p>
-<div class="person-links">
-    <a href="/join-us">💌 Join</a>
-</div>
-</div>
+
+<div class="person-card">
+  <div class="avatar-wrapper">
+    <img src="/assets/images/sally-selene.png" class="avatar empty" alt="Empty position" />
+    <span class="avatar-hover-text">You!</span>
+  </div>
+  <div>
+    <p class="name">We’re hiring graduate students for Spring 2027!</p>
+    <p>Interested in SE? Reach out with your CV & transcript.</p>
+    <div class="person-links">
+      <a href="/join-us">💌 Join</a>
+    </div>
+  </div>
 </div>
 </div>
 
@@ -87,24 +104,6 @@ permalink: /members/
     <div class="person-links">
       <a href="/members/minkyu">Personal Page</a>
       <a href="mailto:minkyuchoi0320@gmail.com">Email</a>
-    </div>
-  </div>
-</div>
-
-<div class="person-card">
-  <div class="avatar-wrapper">
-    <img class="avatar" src="/assets/images/hosung.png" alt="Hosung Kang" />
-  </div>
-  <div>
-    <p class="name">Hosung Kang</p>
-    <ul>
-      <li>
-        Undergraduate student, Department of Computer Science and Engineering, Ewha Womans University
-      </li>
-    </ul>
-    <div class="person-links">
-      <a href="/members/hosung">Personal Page</a>
-      <a href="mailto:kanghsung717@ewhain.net">Email</a>
     </div>
   </div>
 </div>
