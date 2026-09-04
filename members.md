@@ -53,6 +53,21 @@ permalink: /members/
   </div>
 </div>
 
+<div class="person-card">
+  <div class="avatar-wrapper">
+    <img class="avatar" src="/assets/images/mahnoor.jpeg" alt="Mahnoor Shafiq" />
+  </div>
+  <div>
+    <p class="name">Mahnoor Shafiq</p>
+    <ul>
+      <li>M.S. student, Department of Computer Science and Engineering, College of Informatics, Korea University</li>
+    </ul>
+    <div class="person-links">
+      <a href="/members/mahnoor">Personal Page</a>
+      <a href="mailto:mahnoor13@korea.ac.kr">Email</a>
+    </div>
+  </div>
+</div>
 
 <div class="person-card">
   <div class="avatar-wrapper">
