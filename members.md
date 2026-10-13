@@ -89,22 +89,6 @@ permalink: /members/
 
 <div class="people-grid">
 <div class="person-card">
-   <div class="avatar-wrapper">
-    <img class="avatar" src="/assets/images/ejun.png" alt="Ejun Park" />
-  </div>
-  <div>
-    <p class="name">Ejun Park</p>
-    <ul>
-      <li>Undergraduate student, Division of Smart Security, Korea University</li>
-    </ul>
-    <div class="person-links">
-      <a href="/members/ejun">Personal Page</a>
-      <a href="mailto:joonleo@korea.ac.kr">Email</a>
-    </div>
-  </div>
-</div>
-
-<div class="person-card">
   <div class="avatar-wrapper">
     <img class="avatar" src="/assets/images/minkyu.png" alt="Minkyu Choi" />
   </div>
@@ -151,6 +135,22 @@ permalink: /members/
     <div class="person-links">
       <a href="/members/jeongmin">Personal Page</a>
       <a href="mailto:a23493307@gmail.com">Email</a>
+    </div>
+  </div>
+</div>
+
+<div class="person-card">
+  <div class="avatar-wrapper">
+    <img class="avatar" src="/assets/images/nayoung.png" alt="Nayoung Kim" />
+  </div>
+  <div>
+    <p class="name">Nayoung Kim</p>
+    <ul>
+      <li>Undergraduate student, School of Computer Science and Engineering, Chung-Ang University</li>
+    </ul>
+    <div class="person-links">
+      <a href="/members/nayoung">Personal Page</a>
+      <a href="mailto:nyk03@naver.com">Email</a>
     </div>
   </div>
 </div>
